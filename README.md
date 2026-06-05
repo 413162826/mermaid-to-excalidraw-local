@@ -1,6 +1,13 @@
 # Mermaid to Excalidraw Local
 
 把 Obsidian 里的 Mermaid 代码块转换成可编辑的 Excalidraw 内嵌图。
+转换前：
+<img width="1970" height="1143" alt="image" src="https://github.com/user-attachments/assets/44ac907b-8ff3-462c-8565-9c17193d8268" />
+转换后：
+<img width="1653" height="1186" alt="image" src="https://github.com/user-attachments/assets/529fecd6-ed33-4156-bce8-42dacea50946" />
+操作简单：
+<img width="2015" height="331" alt="image" src="https://github.com/user-attachments/assets/b0e1a694-0c9a-48db-ad60-2cfc8aa5022a" />
+
 
 ## 功能
 
