@@ -1,0 +1,9 @@
+{
+  "id": "mermaid-to-excalidraw-local",
+  "name": "Mermaid to Excalidraw Local",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Convert Mermaid code blocks to editable Excalidraw embeds locally.",
+  "author": "suguowen",
+  "isDesktopOnly": false
+}
