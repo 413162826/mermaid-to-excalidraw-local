@@ -49,7 +49,7 @@ Excalidraw/_generated/mermaid
 这是公测阶段推荐方式。安装 BRAT 后添加本仓库：
 
 ```text
-https://github.com/413162826/mermaid-to-excalidraw-local
+https://github.com/413162826/obsidian-mermaid-to-excalidraw
 ```
 
 ## 使用

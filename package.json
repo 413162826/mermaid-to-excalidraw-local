@@ -1,12 +1,12 @@
 {
-  "name": "mermaid-to-excalidraw-local",
+  "name": "obsidian-mermaid-to-excalidraw",
   "version": "0.1.0",
   "description": "Convert Mermaid code blocks to editable Excalidraw embeds locally in Obsidian.",
   "author": "suguowen",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/413162826/mermaid-to-excalidraw-local.git"
+    "url": "https://github.com/413162826/obsidian-mermaid-to-excalidraw.git"
   },
   "license": "MIT",
   "scripts": {
